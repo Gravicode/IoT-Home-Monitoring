@@ -1,0 +1,5 @@
+F:\Experiment\HomeMonitoring\Mqtt\M2Mqtt\obj\Debug\M2Mqtt.Net.csprojResolveAssemblyReference.cache
+F:\Experiment\HomeMonitoring\Mqtt\bin\Debug\M2Mqtt.Net\M2Mqtt.Net.dll
+F:\Experiment\HomeMonitoring\Mqtt\bin\Debug\M2Mqtt.Net\M2Mqtt.Net.pdb
+F:\Experiment\HomeMonitoring\Mqtt\M2Mqtt\obj\Debug\M2Mqtt.Net.dll
+F:\Experiment\HomeMonitoring\Mqtt\M2Mqtt\obj\Debug\M2Mqtt.Net.pdb

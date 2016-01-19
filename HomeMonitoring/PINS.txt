@@ -1,0 +1,23 @@
+PINS
+-----------
+Temp Sensor
+pin 0
+pin 1
+
+light sensor
+analog 0
+
+sound sensor 
+analog 1
+
+pir sensor
+pin 2
+
+gas sensor
+analog 2
+
+led 
+pin 3
+
+buzz 
+pin 4
